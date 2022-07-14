@@ -682,15 +682,15 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-tbxzpZD7e2 {
+.cid-tbxCj7ityn {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #151518;
+  background-color: #1d2039;
 }
-.cid-tbxzpZD7e2 .mbr-fallback-image.disabled {
+.cid-tbxCj7ityn .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tbxzpZD7e2 .mbr-fallback-image {
+.cid-tbxCj7ityn .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -700,25 +700,25 @@ a {
   top: 0;
 }
 @media (max-width: 991px) {
-  .cid-tbxzpZD7e2 .image-wrapper {
+  .cid-tbxCj7ityn .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-tbxzpZD7e2 .row {
+.cid-tbxCj7ityn .row {
   flex-direction: row-reverse;
 }
-.cid-tbxzpZD7e2 img {
+.cid-tbxCj7ityn img {
   width: 100%;
 }
-.cid-tbxzqLIOaz {
+.cid-tbxCjXF892 {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-image: url("../../../assets/images/background7.jpg");
 }
-.cid-tbxzqLIOaz .mbr-fallback-image.disabled {
+.cid-tbxCjXF892 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tbxzqLIOaz .mbr-fallback-image {
+.cid-tbxCjXF892 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
