@@ -1,0 +1,4 @@
+!.well-known/
+```
+
+This tells Git to include the `.well-known` directory in the repository, even though it is hidden by default.
