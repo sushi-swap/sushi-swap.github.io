@@ -1,0 +1,4 @@
+touch .well-known/.nojekyll
+git add .well-known/.nojekyll
+git commit -m "Add .nojekyll"
+git push
